@@ -53,3 +53,15 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+Ref Image Generated one : 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/08bc2b0c-8fe3-4bdf-9eb1-cfb964ec0a40" />
+
+Refining Prompt :
+modify this to a realistic oil pastel painting with goldern shade river and add the stars and night light with sunset
+
+Final Generated Image :
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4075d2e-42d7-4f2c-a9a3-33c61450a95e" />
+
+
+
