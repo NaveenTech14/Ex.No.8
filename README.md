@@ -55,13 +55,16 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 
 Ref Image Generated one : 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/08bc2b0c-8fe3-4bdf-9eb1-cfb964ec0a40" />
+<img width="723" height="725" alt="image" src="https://github.com/user-attachments/assets/dc941ccc-8725-48b7-919c-8efd868d0c2b" />
+
 
 Refining Prompt :
-modify this to a realistic oil pastel painting with goldern shade river and add the stars and night light with sunset
+ refine this into HD quality , UFo flying tech things around the caste towers also night theme with stars.
 
+ 
 Final Generated Image :
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4075d2e-42d7-4f2c-a9a3-33c61450a95e" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/44c45089-fcac-4dfe-940f-a1ceb042cd59" />
+
 
 
 
